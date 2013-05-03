@@ -622,5 +622,5 @@ There you have it, a UDP root shell interacting directly with the PCI network de
 
 Thanks to Awesie for the great challenge.
 
-Exploit script and shellcode available under: http://github.com/moralfag/ctf/pctf2013-e1000
+Exploit script and shellcode available under: https://github.com/moralfag/ctf/tree/master/pctf2013-e1000
 
